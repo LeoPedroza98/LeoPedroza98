@@ -3,7 +3,7 @@
 
 ![tenor](https://user-images.githubusercontent.com/49344443/178118311-19429601-c6ea-4771-97be-1874e7eb8483.gif)
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack Junior
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack
 - 📫 Como entrar em contato comigo:  
 
     <a href="https://www.linkedin.com/in/leonardo-pedroza-a82366138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
