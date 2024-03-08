@@ -34,6 +34,8 @@
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
+    <img height="40px" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" />
 </div>
 
 
